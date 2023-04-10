@@ -281,7 +281,8 @@ async def advantage_spoll_choker(bot, query):
                 if NO_RESULTS_MSG:
                     await bot.send_message(chat_id=LOG_CHANNEL, text=(script.NORSLTS.format(reqstr.id, reqstr.mention, movie)))
                 k = await query.message.edit(script.MVE_NT_FND)
-                await asyncio.sleep and ve msg.delete(10)
+                await asyncio.sleep(10)
+                await query.message.reply_to_message.delete() #try this instead of that. If it doesn't work, contact me @creatorbeatz on TG
                 await k.delete()
 
 
@@ -523,8 +524,35 @@ async def cb_handler(client: Client, query: CallbackQuery):
             if AUTH_CHANNEL and not await is_subscribed(client, query):
                 await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
                 return
-            elif settings['botpm']:
-                await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
+            elif settings['botpm']: #done i guess, If there's any error or bug contact @creatorbeatz on TG. Github: @Joelkb
+                mh = await client.send_cached_media(
+                    chat_id=CHANNEL_ID,
+                    file_id=file_id,
+                    caption=script.FILE_CHANNEL_TXT.format(query.from_user.mention, title, size),
+                    protect_content=True if ident == "filep" else False,
+                    reply_markup=InlineKeyboardMarkup(
+                        [[                          
+                          InlineKeyboardButton("⚜️ᴋᴏᴍ ʟɪɴᴋꜱ⚜️", url='https://t.me/KOM_LINKS')
+                        ]]
+                    )
+                )
+                mh8 = await query.message.reply(
+                    text=script.FILE_READY_TXT.format(query.from_user.mention, title, size),
+                    quote=True,
+                    parse_mode=enums.ParseMode.HTML,
+                    disable_web_page_preview=True,
+                    reply_markup=InlineKeyboardMarkup(
+                        [[
+                            InlineKeyboardButton("📥  ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  📥", url=f"{mh.link}")
+                        ],[
+                            InlineKeyboardButton("⚠️ ᴄᴀɴ'ᴛ ᴀᴄᴄᴇss ❓ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ⚠️", url="https://t.me/+Ek0ThHrI-KYwMWQ1")
+                        ]]
+                    )
+                )                    
+                await asyncio.sleep(180)
+                await mh8.delete()
+                await mh.delete()
+                del mh8, mh
                 return
             else:
                 mh = await client.send_cached_media(
@@ -538,26 +566,23 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         ]]
                     )
                 )
-                mh8 = await query.message.reply(script.FILE_READY_TXT.format(query.from_user.mention, title, size),
-                True,
-                enums.ParseMode.HTML,
-                disable_web_page_preview=True,
-                reply_markup=InlineKeyboardMarkup(
-                    [
-                        [
+                mh8 = await query.message.reply(
+                    text=script.FILE_READY_TXT.format(query.from_user.mention, title, size),
+                    quote=True,
+                    parse_mode=enums.ParseMode.HTML,
+                    disable_web_page_preview=True,
+                    reply_markup=InlineKeyboardMarkup(
+                        [[
                             InlineKeyboardButton("📥  ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ  📥", url=f"{mh.link}")
-                        ],
-                        [
+                        ],[
                             InlineKeyboardButton("⚠️ ᴄᴀɴ'ᴛ ᴀᴄᴄᴇss ❓ ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ ⚠️", url="https://t.me/+Ek0ThHrI-KYwMWQ1")
-                        ]
-                    ]
-                )
-            )                    
-            await asyncio.sleep(180)
-            await mh8.delete()
-            await mh.delete()
-            del mh8, mh
-
+                        ]]
+                    )
+                )                    
+                await asyncio.sleep(180)
+                await mh8.delete()
+                await mh.delete()
+                del mh8, mh
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !',show_alert = True)
         except PeerIdInvalid:
