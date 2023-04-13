@@ -14,14 +14,14 @@ class script(object):
 × ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://app.koyeb.com/'>ᴋᴏʏᴇʙ</a>
 ___________ɴᴇᴛᴡᴏʀᴋ___________
 <a href='https://t.me/team_wizardz'>ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a></b>
-<a href='https://t.me/psycho_association'>ᴩʜуꜱᴄᴏ ɴᴇᴛᴡᴏʀᴋ </a></b>"""
+<a href='https://t.me/psycho_association'>ᴩʜуꜱᴄᴏ ɴᴇᴛᴡᴏʀᴋ</a></b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
-- ⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/weebs_support">ʜᴇʀᴇ</a>
-- ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @Team_wizardz
-Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/xenxd">ᴍɪᴋєʏ ꜱᴀɴσ</a></b>"""
+× ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
+× ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/weebs_support">ʜᴇʀᴇ</a>
+
+× ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @Team_wizardz
+× Dᴇᴠᴇʟᴏᴘᴇʀ - <a href="https://t.me/xenxd">ᴍɪᴋєʏ ꜱᴀɴσ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -216,7 +216,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/team_wizardz">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
 ╰─────── • ◆ • ───────╯
 
 ╭─────── • ◆ • ───────╮
@@ -233,7 +233,8 @@ IMDb Data:
 × ʀᴇʟᴇᴀsᴇ: <a href={url}/releaseinfo>{year}</a>
 × ʀᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a> / 10
 × ʀᴇǫᴜᴇꜱᴛᴇᴅ ʙʏ: {message.from_user.mention}
-× Note: 𝘛𝘩𝘪𝘴 𝘔𝘦𝘴𝘴𝘢𝘨𝘦 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘈𝘶𝘵𝘰-𝘥𝘦𝘭𝘦𝘵𝘦𝘥 𝘢𝘧𝘵𝘦𝘳 𝘢 𝘍𝘦𝘸 𝘔𝘪𝘯𝘶𝘵𝘦𝘴 𝘵𝘰 𝘢𝘷𝘰𝘪𝘥 𝘊𝘰𝘱𝘺𝘳𝘪𝘨𝘩𝘵 𝘪𝘴𝘴𝘶𝘦𝘴 
+
+× ɴᴏᴛᴇ: ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏ-ᴅᴇʟᴇᴛᴇᴅ ᴀғᴛᴇʀ ᴀ ғᴇᴡ ᴍɪɴᴜᴛᴇꜱ ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏᴘʏʀɪɢʜᴛ ɪꜱꜱᴜᴇꜱ
 
 ©ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</b>"""
     REPRT_MSG = """ Reported To Admin"""
@@ -380,7 +381,12 @@ Group Support
     
 <code>{}</code>
     
-<b>✨ ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @team_netflix</b>
+╭─────── • ◆ • ───────╮
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/team_wizardz">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
+╰─────── • ◆ • ───────╯
+▫️ ᴄʜᴀɴɴᴇʟ : @team_netflix
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @weebs_support
+╰─────── • ◆ • ───────╯
 """
     
     LOGO = """
