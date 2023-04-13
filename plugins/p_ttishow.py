@@ -38,7 +38,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('🎈ᴏᴩᴇɴ ᴍᴇ ɪɴ ᴩᴍ🎈', url="https://t.me/Kom_auto_filter5_bot")
+                    InlineKeyboardButton('🎈ᴏᴩᴇɴ ᴍᴇ ɪɴ ᴩᴍ🎈', url="https://t.me/Lucy_Filter_bot")
                     
                  
           
@@ -61,7 +61,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton('🎈ᴏᴩᴇɴ ᴍᴇ ɪɴ ᴩᴍ🎈', url="https://t.me/Kom_auto_filter5_bot")
+                                                                           InlineKeyboardButton('🎈ᴏᴩᴇɴ ᴍᴇ ɪɴ ᴩᴍ🎈', url="https://t.me/Lucy_Filter_bot")
                                                                            
                                                                         
                                                                            
