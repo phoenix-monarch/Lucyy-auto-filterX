@@ -23,7 +23,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/76d6f4e8a5344a8d471c9.jpg https://telegra.ph/file/76d6f4e8a5344a8d471c9.jpg https://telegra.ph/file/895f28faa7afa47500c0b.jpg https://telegra.ph/file/895f28faa7afa47500c0b.jpg https://telegra.ph/file/895f28faa7afa47500c0b.jpg https://telegra.ph/file/07f185825c5b7bfd6fbfb.jpg https://telegra.ph/file/85f95494565a762edb3e7.jpg https://telegra.ph/file/708a1d6ce805fcc6a46d0.jpg https://telegra.ph/file/d799c1a964f211028cc97.jpg https://telegra.ph/file/b987425b80bca0cf45c7e.jpg https://telegra.ph/file/2a8b3779760289b76de24.jpg https://telegra.ph/file/47961be968719b3e24cf0.jpg https://telegra.ph/file/2e127b0f6b1810d733c09.jpg https://telegra.ph/file/281b18770a43a29120252.jpg https://telegra.ph/file/2086dd2aa8382e758a599.jpg https://telegra.ph/file/fcc849db4bf5c517f0f8d.jpg')).split()
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/231c6450380533344ee43.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b58a7d9e2a1bb01a33674.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/35667e1f08868de0fae69.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
