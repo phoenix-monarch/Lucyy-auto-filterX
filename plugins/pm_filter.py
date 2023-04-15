@@ -532,7 +532,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     protect_content=True if ident == "filep" else False,
                     reply_markup=InlineKeyboardMarkup(
                         [[                          
-                          InlineKeyboardButton("⚜️ᴋᴏᴍ ʟɪɴᴋꜱ⚜️", url='https://t.me/KOM_LINKS')
+                          InlineKeyboardButton("ᴄʜᴀɴɴᴇʟ ʟɪɴᴋꜱ", url='https://t.me/team_netflix')
                         ]]
                     )
                 )
@@ -1214,7 +1214,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ʙᴏᴛ ᴜᴩᴅᴀᴛᴇꜱ', url="t.me/team_wizardz"),
             InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://t.me/weebs_support")
        ],[
-            InlineKeyboardButton('ʀᴇᴩᴏʀᴛ ʙᴜɢ & ꜰᴇᴇᴅʙᴀᴄᴋ', url="t.me/weebs_support")
+            InlineKeyboardButton('ʀᴇᴩᴏʀᴛ ʙᴜɢ & ꜰᴇᴇᴅʙᴀᴄᴋ', url="t.me/xenxd")
        ],[ 
             InlineKeyboardButton('⌫ ʙᴀᴄᴋ', callback_data='start')
         ]]
