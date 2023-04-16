@@ -13,9 +13,9 @@ class script(object):
 × ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴀɴɢᴏ ᴅʙ</a>
 × ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://app.koyeb.com/'>ᴋᴏʏᴇʙ</a>
 
-ᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ɴᴇᴛᴡᴏʀᴋ - 
-<a href='https://t.me/team_wizardz'>ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a></b>
-<a href='https://t.me/psycho_association'>ᴩʜуꜱᴄᴏ ɴᴇᴛᴡᴏʀᴋ</a></b>"""
+× ʀᴇqᴜᴇꜱᴛ ɢʀᴏᴜᴘ - <a href='https://t.me/+FA9pySV5hUxkZThl'>ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʜᴜʙ</a></b>
+
+× ᴘᴏᴡᴇʀᴇᴅ ʙʏ - <a href='https://t.me/team_netflix'>ᴛᴇᴀᴍ ɴᴇᴛғʟɪx | ᴏʀɪɢɪɴᴀʟꜱ</a></b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 × ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
@@ -27,10 +27,11 @@ class script(object):
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 <b>ɴᴏᴛᴇ:</b>
+
 1. ᴛʜɪꜱ ʙᴏᴛ ꜱʜᴏᴜʟᴅ ʜᴀᴠᴇ ᴀᴅᴍɪɴ ᴘʀɪᴠɪʟᴇɢᴇ.
 2. ᴏɴʟʏ ᴀᴅᴍɪɴꜱ ᴄᴀɴ ᴀᴅᴅ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ.
 3. ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ ʜᴀᴠᴇ ᴀ ʟɪᴍɪᴛ ᴏꜰ 64 ᴄʜᴀʀᴀᴄᴛᴇʀꜱ.
-Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
+ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇꜱ:
 • /filter - <code>ᴀᴅᴅ ᴀ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /filters - <code>ʟɪꜱᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀꜱ ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
@@ -71,14 +72,15 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /disconnect  - <code>ᴅɪꜱᴄᴏɴɴᴇᴄᴛ ꜰʀᴏᴍ ᴀ ᴄʜᴀᴛ</code>
 • /connections - <code>ʟɪꜱᴛ ᴀʟʟ ʏᴏᴜʀ ᴄᴏɴɴᴇᴄᴛɪᴏɴꜱ</code>"""
 
-    EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
-<b>ɴᴏᴛᴇ:</b>
+    EXTRAMOD_TXT = """ʜᴇʟᴘ: ᴇxᴛʀᴀ ᴍᴏᴅᴜʟᴇs
+<b>ɴᴏᴛᴇ -</b>
 ᴛʜᴇꜱᴇ ᴀʀᴇ ᴛʜᴇ ᴇxᴛʀᴀ ꜰᴇᴀᴛᴜʀᴇꜱ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ
-Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
+ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ:
 • /id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</code>
 • /info  - <code>ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ.</code>
 • /imdb  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ɪᴍᴅʙ ꜱᴏᴜʀᴄᴇ.</code>
 • /search  - <code>ɢᴇᴛ ᴛʜᴇ ꜰɪʟᴍ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ꜰʀᴏᴍ ᴠᴀʀɪᴏᴜꜱ ꜱᴏᴜʀᴄᴇꜱ.</code>
+
 <b>•ᴀᴜᴛᴏ ᴊᴏɪɴ ᴀᴄᴄᴇᴩᴛ • 
 ɪ ᴄᴀɴ ᴀᴄᴄᴇᴩᴛ ɴᴇᴡ ᴜꜱᴇʀꜱ ɪɴ yᴏᴜʀ ᴩʀɪᴠᴀᴛᴇ ᴄʜᴀɴɴᴇʟ.
 ᴡᴀyꜱ ᴛᴏ ᴅᴏ:-
@@ -86,8 +88,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 
     ADMIN_TXT = """ʜᴇʟᴘ: Aᴅᴍɪɴ Mᴏᴅs
 <b>ɴᴏᴛᴇ:</b>
-Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
-Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
+ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴏɴʟʏ ᴡᴏʀᴋꜱ ꜰᴏʀ ᴍʏ ᴀᴅᴍɪɴꜱ
+ ᴄᴏᴍᴍᴀɴᴅꜱ ᴀɴᴅ ᴜꜱᴀɢᴇ:
 • /logs - <code>ᴛᴏ ɢᴇᴛ ᴛʜᴇ ʀᴇᴄᴇɴᴛ ᴇʀʀᴏʀꜱ</code>
 • /stats - <code>ᴛᴏ ɢᴇᴛ ꜱᴛᴀᴛᴜꜱ ᴏꜰ ꜰɪʟᴇꜱ ɪɴ ᴅʙ. [Tʜɪs Cᴏᴍᴍᴀɴᴅ Cᴀɴ Bᴇ Usᴇᴅ Bʏ Aɴʏᴏɴᴇ]</code>
 • /delete - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴇ ꜰʀᴏᴍ ᴅʙ.</code>
@@ -146,7 +148,8 @@ Nᴀᴍᴇ - {}"""
 ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)
-©ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</b>"""
+
+powered by - @ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</b>"""
 
     GROUP_TXT = """
 <b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟
@@ -270,12 +273,12 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
     
     FILE_READY_TXT = """
-<b>𝐇𝐚𝐢 👋 {}📫 𝐘𝐨𝐮𝐫 𝐅𝐢𝐥𝐞 𝐢𝐬 𝐑𝐞𝐚𝐝𝐲 👇</b>
+<b>ʜᴇʏ 👋 {}📫 ʏᴏᴜʀ ғɪʟᴇ ɪꜱ ʀᴇᴀᴅʏ 👇</b>
 
-<b>📂 𝐅𝐢𝐥𝐞 𝐍𝐚𝐦𝐞</b> : <code>{}</code>
-<b>⚙️ 𝐅𝐢𝐥𝐞 𝐒𝐢𝐳𝐞</b> : <b>{}</b>
+<b>📂 ғɪʟᴇ ɴᴀᴍᴇ</b> : <code>{}</code>
+<b>⚙️ ғɪʟᴇ ꜱɪᴢᴇ</b> : <b>{}</b>
 
-<b>✍️ 𝐍𝐨𝐭𝐞: ❗️ This File & Message Will Deleted within 3 Mins..!</b>
+<b>✍️ ɴᴏᴛᴇ ❗️ This File & Message Will Deleted within 3 Mins..!</b>
 """
 
     TTS_TXT = """Help: <b> TTS 🎤 module:</b>
@@ -284,11 +287,13 @@ Translate text to speech
 • /tts <text> : convert text to speech"""
 
     GTRANS_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖦𝗈𝗈𝗀𝗅𝖾 𝖳𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾𝗋
-𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚝𝚛𝚊𝚗𝚜𝚕𝚊𝚝𝚎 𝚊 𝚝𝚎𝚡𝚝 𝚝𝚘 𝖺𝗇𝗒 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝. 𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚠𝚘𝚛𝚔𝚜 𝚘𝚗 𝚋𝚘𝚝𝚑 𝚙𝚖 𝚊𝚗𝚍 𝚐𝚛𝚘𝚞𝚙 ✯
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ʜᴇʟᴘꜱ ʏᴏᴜ ᴛᴏ ᴛʀᴀɴꜱʟᴀᴛᴇ ᴀ ᴛᴇxᴛ ᴛᴏ ᴀɴʏ ʟᴀɴɢᴜᴀɢᴇ ʏᴏᴜ ᴡᴀɴᴛ
+
+ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴜꜱᴀɢᴇ:
 ➪/tr - 𝖳𝗈 𝗍𝗋𝖺𝗇𝗌𝗅𝖺𝗍𝖾𝗋 𝗍𝖾𝗑𝗍𝗌 𝗍𝗈 𝖺 𝗌𝗉𝖾𝖼𝗂𝖿𝖼 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾
 ➤ 𝖭𝗈𝗍𝖾:
 𝖶𝗁𝗂𝗅𝖾 𝗎𝗌𝗂𝗇𝗀 /tr 𝗒𝗈𝗎 𝗌𝗁𝗈𝗎𝗅𝖽 𝗌𝗉𝖾𝖼𝗂𝖿𝗒 𝗍𝗁𝖾 𝗅𝖺𝗇𝗀𝗎𝖺𝗀𝖾 𝖼𝗈𝖽𝖾
+
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾: /𝗍𝗋 𝗆𝗅
 • 𝖾𝗇 = 𝖤𝗇𝗀𝗅𝗂𝗌𝗁
 • 𝗆𝗅 = 𝖬𝖺𝗅𝖺𝗒𝖺𝗅𝖺𝗆
@@ -318,19 +323,18 @@ Helps you to know your ping 🚶🏼‍♂️
 • This commands can be used buy everyone in the groups and bots pm
 • Share us for more features"""
  
-    STICKER_TXT = """<b>𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.</b>
-• 𝐔𝐒𝐀𝐆𝐄
-To Get Sticker ID
- 
-  ⭕ 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
+    STICKER_TXT = """<b>ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ꜰɪɴᴅ ᴀɴʏ ꜱᴛɪᴄᴋᴇʀ ɪᴅ..</b>
+
+• ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴜꜱᴀɢᴇ:
  
 ◉ Reply To Any Sticker [/stickerid]"""
 
-    FONT_TXT= """⚙️ 𝐔𝐒𝐀𝐆𝐄
-𝐘𝐎𝐔 𝐂𝐀𝐍 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐌𝐎𝐃𝐔𝐋𝐄 𝐓𝐎 𝐂𝐇𝐀𝐍𝐆𝐄 𝐅𝐎𝐍𝐓 𝐒𝐓𝐘𝐋𝐄 
-<b>COMMAND</b> : /font your text (optional)
-        <b> Eg:- /font Hello</b>
- <i>This feature added by @XENXD"""
+    FONT_TXT= """🔰  Stylish Font Module  🔰
+ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴍᴏᴅᴜʟᴇ ᴛᴏ ᴄʜᴀɴɢᴇ ꜰᴏɴᴛ ꜱᴛʏʟᴇ 
+
+COMMAND : /font your text (optional)
+         Eg:- /font Hello
+ <i>This feature added by @wizards_network"""
     
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
@@ -342,13 +346,14 @@ Group Support
 <b>Everyone can use this command , if spaming happens bot will automatically ban you from the group.</b>"""
     
     URLSHORT_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
-<i><b>𝚃𝚑𝚒𝚜 𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚑𝚎𝚕𝚙𝚜 𝚢𝚘𝚞 𝚝𝚘 𝚜𝚑𝚘𝚛𝚝 𝚊 𝚞𝚛𝚕 </i></b>
-➤ 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐔𝐬𝐚𝐠𝐞:
+<i><b>ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ʜᴇʟᴘꜱ ʏᴏᴜ ᴛᴏ ꜱʜᴏʀᴛ ᴀ ᴜʀʟ </i></b>
+
+➤ ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴜꜱᴀɢᴇ:
 ➪ /short: <b>𝗎𝗌𝖾 𝗍𝗁𝗂𝗌 𝖼𝗈𝗆𝗆𝖺𝗇𝖽 𝗐𝗂𝗍𝗁 𝗒𝗈𝗎𝗋 𝗅𝗂𝗇𝗄 𝗍𝗈 𝗀𝖾𝗍 𝗌𝗁𝗈𝗋𝗍𝖾𝖽 𝗅𝗂𝗇𝗄𝗌</b>
 ➛𝖤𝗑𝖺𝗆𝗉𝗅𝖾:
 <code>/short https://youtu.be/example...</code>"""
 
-    CARB_TXT = """<b>Help</b> : 𝗖𝗔𝗥𝗕𝗢𝗡
+    CARB_TXT = """<b>Help</b> 🔰  Carbon Module  🔰
 𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝚂 𝙰 𝙵𝙴𝚄𝚃𝚄𝚁𝙴 𝚃𝙾 𝙼𝙰𝙺𝙴 𝚃𝙷𝙴 𝙸𝙼𝙰𝙶𝙴 𝙰𝚂 𝚂𝙷𝙾𝚆𝙽 𝙸𝙽 𝚃𝙷𝙴 𝚃𝙾𝙿 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁𝙴 𝚃𝙴𝚇𝚃𝚂.
 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝙴 𝙼𝙾𝙳𝚄𝙻𝙴 𝙹𝚄𝚂𝚃 𝚂𝙴𝙽𝙳 𝚃𝙷𝙴 𝚃𝙴𝚇𝚃 𝙰𝙽𝙳 𝚁𝙴𝙿𝙻𝚈 𝚃𝙾 𝙸𝚃 𝚆𝙸𝚃𝙷 /carbon 𝙲𝙾𝙼𝙼𝙰𝙽𝙳 𝚃𝙷𝙴 𝙱𝙾𝚃 𝚆𝙸𝙻𝙻 𝚁𝙴𝙿𝙻𝚈 𝚆𝙸𝚃𝙷 𝚃𝙷𝙴 𝙲𝙰𝚁𝙱𝙾𝙽 𝙸𝙼𝙰𝙶𝙴"""
     
