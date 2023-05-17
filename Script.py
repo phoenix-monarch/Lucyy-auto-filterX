@@ -21,7 +21,7 @@ class script(object):
 × ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ⚠️.
 × ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/weebs_support">ʜᴇʀᴇ</a>
 
-× ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @Team_wizardz
+× ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴏᴜʀ ᴀʟʟ ᴄʜᴀɴɴᴇʟꜱ - @Team_Netflix
 × Dᴇᴠᴇʟᴏᴘᴇʀ - <a href="https://t.me/xenxd">ᴍɪᴋєʏ ꜱᴀɴσ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -172,7 +172,7 @@ powered by - @ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</b>"""
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : ᴍɪᴋєʏ ꜱᴀɴσ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @xenxd , @ryukaf
+• ᴜꜱᴇʀɴᴀᴍᴇ : @xenxd , @pervert_sanpai
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/xenxd'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
@@ -221,12 +221,12 @@ powered by - @ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</b>"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/team_wizardz">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizards_network">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
 ╰─────── • ◆ • ───────╯
 
 ╭─────── • ◆ • ───────╮
 ▫️ ᴄʜᴀɴɴᴇʟ : @team_netflix
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @weebs_support
+▫️ main channel : @netflix_complex
 ╰─────── • ◆ • ───────╯</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -389,10 +389,10 @@ Group Support
 <code>{}</code>
     
 ╭─────── • ◆ • ───────╮
-🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/team_wizardz">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizards_network">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
 ╰─────── • ◆ • ───────╯
 ▫️ ᴄʜᴀɴɴᴇʟ : @team_netflix
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @weebs_support
+▫️ main channel : @netflix_complex
 ╰─────── • ◆ • ───────╯
 """
     
