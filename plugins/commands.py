@@ -156,9 +156,9 @@ async def start(client, message):
                         [
                          [
                           
-                          InlineKeyboardButton('ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton('ᴘᴏᴡᴇʀᴇᴅ ʙʏ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("ʀᴇǫᴜᴇꜱᴛ ɢʀᴏᴜᴘ", url="https://t.me/+FA9pySV5hUxkZThl")
+                          InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/netflix_complex")
                          ]
                         ]
                     )
@@ -175,9 +175,9 @@ async def start(client, message):
                         [
                          [
                          
-                          InlineKeyboardButton('ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                          InlineKeyboardButton('ᴘᴏᴡᴇʀᴇᴅ ʙʏ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("ʀᴇǫᴜᴇꜱᴛ ɢʀᴏᴜᴘ", url="https://t.me/+FA9pySV5hUxkZThl")
+                          InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/netflix_complex")
                          ]
                         ]
                     )
@@ -245,7 +245,7 @@ async def start(client, message):
                 protect_content=True if pre == 'filep' else False,
                 reply_markup=InlineKeyboardMarkup(
                     [[                          
-                      InlineKeyboardButton("⚜️ᴋᴏᴍ ʟɪɴᴋꜱ⚜️", url='https://t.me/KOM_LINKS')
+                      InlineKeyboardButton("ᴄʜᴀᴛ ɢʀᴏᴜᴘ", url='https://t.me/mikey_7x')
                     ]]
                 )
             )
@@ -302,9 +302,9 @@ async def start(client, message):
             [
              [
               
-              InlineKeyboardButton('ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
+              InlineKeyboardButton('ᴘᴏᴡᴇʀᴇᴅ ʙʏ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("ʀᴇǫᴜᴇꜱᴛ ɢʀᴏᴜᴘ", url="https://t.me/+FA9pySV5hUxkZThl")
+              InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/netflix_complex")
              ]
             ]
         )
