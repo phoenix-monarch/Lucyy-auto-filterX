@@ -13,7 +13,7 @@ class script(object):
 × ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴀɴɢᴏ ᴅʙ</a>
 × ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://app.koyeb.com/'>ᴋᴏʏᴇʙ</a>
 
-× ʀᴇqᴜᴇꜱᴛ ɢʀᴏᴜᴘ - <a href='https://t.me/+FA9pySV5hUxkZThl'>ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʜᴜʙ</a></b>
+× ʀᴇqᴜᴇꜱᴛ ɢʀᴏᴜᴘ - <a href='https://t.me/+jCyXfaJkBXBmMDg1'>ᴍᴏᴠɪᴇ ꜱᴇᴀʀᴄʜ ʜᴜʙ</a></b>
 
 × ᴘᴏᴡᴇʀᴇᴅ ʙʏ - <a href='https://t.me/team_netflix'>ᴛᴇᴀᴍ ɴᴇᴛғʟɪx | ᴏʀɪɢɪɴᴀʟꜱ</a></b>"""
 
@@ -221,7 +221,7 @@ powered by - @ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</b>"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizards_network">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizard_nation">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
 ╰─────── • ◆ • ───────╯
 
 ╭─────── • ◆ • ───────╮
@@ -389,7 +389,7 @@ Group Support
 <code>{}</code>
     
 ╭─────── • ◆ • ───────╮
-🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizards_network">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
+🔅 ᴘᴏᴡᴇʀᴇᴅ ʙʏ :  <a href="https://t.me/wizard_nation">ᴡɪᴢᴀʀᴅ ɴᴇᴛᴡᴏʀᴋ</a>
 ╰─────── • ◆ • ───────╯
 ▫️ ᴄʜᴀɴɴᴇʟ : @team_netflix
 ▫️ main channel : @netflix_complex
