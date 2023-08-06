@@ -126,7 +126,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Devil-Botz/Elsa">
+<a href="https://heroku.com/deploy?template=https://github.com/phoenix-monarch/Lucyy-auto-filterX">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
